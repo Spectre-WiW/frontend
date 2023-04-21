@@ -16,7 +16,7 @@
 > git commit -m 'commit inicial'
 
 6. Subir as alterações
-> git push
+> git push( enviar alterações para o repositório)
 
 6. Enviar o link para seu repositório criado na plataforma da EBAC, exemplo:
 https://github.com/wilian2/frontend

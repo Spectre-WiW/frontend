@@ -23,3 +23,17 @@ https://github.com/wilian2/frontend
 
 7. DESAFIO: criar apresentação pessoal no GitHub
 Dica: você precisa criar um repositório com mesmo nome do seu usuário e adicionar o arquivo readme.md =)
+
+
+# Git Flow
+
+Fluxo do Git
+
+### Branchs
+
+São ramificações / versão do código que podem correr paralelas
+
+- main / master( vai para produção, quando o projeto é publicado)
+- develop
+- DOD Definiotion of Done: critérios de aceite
+- versionamento versão public
